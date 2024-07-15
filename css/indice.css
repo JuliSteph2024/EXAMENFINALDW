@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(255, 221, 127);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    color: rgb(177, 16, 16);
+}
+div {
+    background-color: white;
+    border: solid rgb(245, 160, 49);
+    border-radius: 20px;
+    width: 300px;
+    margin: 30px auto;
+    padding: 30px 10px;
+}
+ul {
+    list-style-type: none;
+}
+ul li {
+    margin: 50px 0px;
+    font-size: 18px;
+}
+ul a {
+    text-decoration: none;
+    color: rgb(36, 36, 36);
+}
